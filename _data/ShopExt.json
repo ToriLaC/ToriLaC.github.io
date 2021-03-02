@@ -1480,7 +1480,7 @@
   ],
   "races": [
     {
-      "price": 2917,
+      "price": 5000,
       "defName": "Human",
       "enabled": true,
       "name": "human",
